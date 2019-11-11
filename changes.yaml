@@ -1,8 +1,0 @@
-name: "matt-changes"
-github:
-  owner: "matthewmichihara"
-  name: "cloud-build-hello"
-  pull_request:
-    comment_control: "COMMENTS_ENABLED"
-    branch: "changes"
-filename: "cloudbuild.yaml"
